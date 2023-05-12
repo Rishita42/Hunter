@@ -74,13 +74,7 @@ npm start
 - [Solana Devnet](https://explorer.solana.com/?cluster=devnet)
 - [View On Solana Explorer](https://explorer.solana.com/address/H2bq5hQFMpAPM7qD2gLMnLx6FN278MkAHKNHx1hcbaMB?cluster=devnet)
 
-```json
-{
-  "devnet": {
-    "ProgramId": "H2bq5hQFMpAPM7qD2gLMnLx6FN278MkAHKNHx1hcbaMB"
-  }
-}
-```
+
 
 
 
